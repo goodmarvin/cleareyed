@@ -92,14 +92,7 @@
     display: none;
 }
 
-@font-face {
-    font-family: "uncut sans";
-    src: url("./uncut-sans.woff2") format("woff2");
-}
 
-* {
-    font-family: "uncut sans", sans-serif;
-}
 
 #markdown a {
     @apply text-blue-500;
